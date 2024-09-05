@@ -39,6 +39,8 @@
 ],
 "dateModified":
 "2024-09-05T20:28:42.671179Z",
+"datePublished":
+"2024-09-05T21:28:45.649244+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -63,6 +65,34 @@
 ],
 "path":
 "sub-221005/sub-221005_ecephys.nwb",
+"publishedBy":
+{
+"endDate":
+"2024-09-05T21:28:45.649244+00:00",
+"id":
+"urn:uuid:5c68a6e6-59e8-478a-a3e5-867f8423e027",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2024-09-05T21:28:45.649244+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:9dd124a8-6c5b-46b9-b942-d7af5cef170c",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -163,7 +193,7 @@
 ]
 },
 "modified":
-"2024-09-05T20:29:11.586824Z",
+"2024-09-05T21:28:45.730818Z",
 "path":
 "sub-221005/sub-221005_ecephys.nwb",
 "size":
