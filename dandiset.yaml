@@ -27,9 +27,9 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - ElectrodeGroup
-citation: 'Lakhani, Alishah (2024) Data for: Homeostatic capacity of L5/6 neurons
-  in Fmr1 KO mice following unilateral whisker deprivation (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/001171/draft'
+citation: 'Lakhani, Alishah (2024) Data for: Whisker deprivation triggers a distinct
+  form of cortical homeostatic plasticity that is impaired in the Fmr1 KO (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001171/draft'
 contributor:
 - affiliation: []
   email: lakhanialishah@gmail.com
@@ -39,10 +39,10 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-08-12T12:23:20.214623+00:00'
-datePublished: '2024-09-05T21:28:45.538436+00:00'
-description: 'This dataset contains all the raw data files for the paper: Failure
-  to homeostatically recruit layer 5/6 neurons during whisker stimulation in Fmr1
-  KO mice.'
+datePublished: '2024-09-07T19:30:16.043395+00:00'
+description: 'This dataset contains all the raw data files for the paper: Whisker
+  deprivation triggers a distinct form of cortical homeostatic plasticity that is
+  impaired in the Fmr1 KO'
 ethicsApproval: []
 id: DANDI:001171/draft
 identifier: DANDI:001171
@@ -51,17 +51,17 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001171/versions/draft/assets/
-name: 'Data for: Homeostatic capacity of L5/6 neurons in Fmr1 KO mice following unilateral
-  whisker deprivation'
+name: 'Data for: Whisker deprivation triggers a distinct form of cortical homeostatic
+  plasticity that is impaired in the Fmr1 KO'
 protocol: []
 publishedBy:
-  endDate: '2024-09-05T21:28:45.538436+00:00'
-  id: urn:uuid:e0830fd4-b59b-4df8-bd54-61c0c6002102
+  endDate: '2024-09-07T19:30:16.043395+00:00'
+  id: urn:uuid:19b9828d-9223-4828-8fa1-a2f4c1f24338
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-09-05T21:28:45.538436+00:00'
+  startDate: '2024-09-07T19:30:16.043395+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:6b6342b2-0d19-4740-83e0-2b96a7aa9112
+  - id: urn:uuid:09c0b85c-ee0d-4cc9-8e7b-99e715210985
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
