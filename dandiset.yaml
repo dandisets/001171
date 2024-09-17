@@ -39,7 +39,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-08-12T12:23:20.214623+00:00'
-datePublished: '2024-09-07T19:30:16.043395+00:00'
+datePublished: '2024-09-17T14:34:54.972159+00:00'
 description: 'This dataset contains all the raw data files for the paper: Whisker
   deprivation triggers a distinct form of cortical homeostatic plasticity that is
   impaired in the Fmr1 KO'
@@ -55,13 +55,13 @@ name: 'Data for: Whisker deprivation triggers a distinct form of cortical homeos
   plasticity that is impaired in the Fmr1 KO'
 protocol: []
 publishedBy:
-  endDate: '2024-09-07T19:30:16.043395+00:00'
-  id: urn:uuid:19b9828d-9223-4828-8fa1-a2f4c1f24338
+  endDate: '2024-09-17T14:34:54.972159+00:00'
+  id: urn:uuid:4252a90b-d678-4a2d-9436-53293fb89386
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-09-07T19:30:16.043395+00:00'
+  startDate: '2024-09-17T14:34:54.972159+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:09c0b85c-ee0d-4cc9-8e7b-99e715210985
+  - id: urn:uuid:2a82b792-4a8c-4e90-83a4-5a1b8c5158f5
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
